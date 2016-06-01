@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464699540 source:d:\codeprac\c_practice\maxline\main.c
+	<stdio.h>
+	<stdlib.h>
+
