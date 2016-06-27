@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465893531 source:d:\codeprac\c_practice\leetcode\q316\main.c
+	<stdio.h>
+	<string.h>
+
