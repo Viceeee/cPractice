@@ -3,27 +3,29 @@
 #include <string.h>
 
 
-int* lower(char s[]);
+void lower(char s[]);
 static int to[100];
 
 int main()
 {
-    char s[] = "ABDedf";
+    char s[] = "###ABD57657edf67";
     //lower(s);
-    int* to = lower(s);
-    printf("%s",to);
+    lower(s);
+    printf("%s",s);
     return 0;
 }
 
-int* lower(char s[]){
+void lower(char s[]){
     int i,j = 0;
-
+    extern int to[];
     for(i = 0; s[i] != '\0'; i++){
         if(s[i] >= 'A' && s[i] <= 'Z'){
-            to[j] = s[i] - 'A' + 'a';
-            j++;
+            to[j++] = s[i] - 'A' + 'a';
+        } else if(s[i] >= 'a' && s[i] <= 'z'){
+            to[j++] = s[i];
         }
     }
-    return to;
+    for(i = 0; (s[i] = to[i]) != '\0'; i++);
+    s[i] = '\0';
 }
 
