@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1468507540 source:d:\codeprac\c_practice\ch05\lx5_6\func.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<ctype.h>
+	<ctype.h>
+
+1468507533 source:d:\codeprac\c_practice\ch05\lx5_6\main.c
+	<stdio.h>
+	<math.h>
+	"func.h"
+
+1468506423 d:\codeprac\c_practice\ch05\lx5_6\func.h
+
+1468483923 source:d:\codeprac\c_practice\ch05\lx5_6\stack.c
+	<stdio.h>
+

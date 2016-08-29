@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1468240108 source:d:\codeprac\c_practice\ch05\prac2\alloc.c
+
+1468241543 source:d:\codeprac\c_practice\ch05\prac2\main.c
+	<stdio.h>
+

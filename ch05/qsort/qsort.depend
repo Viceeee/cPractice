@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1468572924 source:d:\codeprac\c_practice\ch05\qsort\main.c
+	<stdio.h>
+	<string.h>
+
+1468573093 source:d:\codeprac\c_practice\ch05\qsort\alloc.c
+
+1468573115 source:d:\codeprac\c_practice\ch05\qsort\getline.c
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469175661 source:d:\codeprac\c_practice\ch05\sort.c\numcmp.c
+	<stdlib.h>
+
+1469176506 source:d:\codeprac\c_practice\ch05\sort.c\main.c
+	<stdio.h>
+	<string.h>
+

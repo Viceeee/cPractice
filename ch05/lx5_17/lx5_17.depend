@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1469347154 source:d:\codeprac\c_practice\ch05\lx5_17\error.c
+	<stdio.h>
+	<stdlib.h>
+
+1469347676 source:d:\codeprac\c_practice\ch05\lx5_17\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1469347993 source:d:\codeprac\c_practice\ch05\lx5_17\numcmp.c
+	<math.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1469346838 source:d:\codeprac\c_practice\ch05\lx5_17\substr.c
+	<string.h>
+

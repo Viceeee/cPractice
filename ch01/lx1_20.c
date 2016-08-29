@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define TABINC 8
+#define TABINC 4
 
 int main(){
     int c, nb, pos;

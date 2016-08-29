@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1468573380 source:d:\codeprac\c_practice\ch05\lx5_7\alloc.c
+
+1468573380 source:d:\codeprac\c_practice\ch05\lx5_7\getline.c
+	<stdio.h>
+
+1468574044 source:d:\codeprac\c_practice\ch05\lx5_7\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1471674813 source:d:\codeprac\c_practice\ch07\lx7_5a\getop.c
+	<stdio.h>
+	<ctype.h>
+
+1471673563 source:d:\codeprac\c_practice\ch07\lx7_5a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

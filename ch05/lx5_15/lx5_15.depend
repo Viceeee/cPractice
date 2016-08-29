@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1469244954 source:d:\codeprac\c_practice\ch05\lx5_15\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+
+1469239583 source:d:\codeprac\c_practice\ch05\lx5_15\numcmp.c
+	<stdlib.h>
+

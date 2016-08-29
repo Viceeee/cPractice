@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1470917976 source:d:\codeprac\c_practice\ch05\lx5_19\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"undcl.h"
+
+1470914587 d:\codeprac\c_practice\ch05\lx5_19\undcl.h
+

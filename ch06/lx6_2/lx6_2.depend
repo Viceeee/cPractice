@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1471242786 source:d:\codeprac\c_practice\ch06\lx6_2\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1471232548 source:d:\codeprac\c_practice\ch06\lx6_2\talloc.c
+	<stdlib.h>
+	<string.h>
+

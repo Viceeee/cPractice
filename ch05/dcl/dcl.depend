@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1470799868 source:d:\codeprac\c_practice\ch05\dcl\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"dcl.h"
+
+1470799868 d:\codeprac\c_practice\ch05\dcl\dcl.h
+

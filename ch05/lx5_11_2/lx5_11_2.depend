@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1469031588 source:d:\codeprac\c_practice\ch05\lx5_11_2\main.c
+	<stdio.h>
+
+1469031749 source:d:\codeprac\c_practice\ch05\lx5_11_2\settab.c
+	<stdlib.h>
+
+1469031327 source:d:\codeprac\c_practice\ch05\lx5_11_2\tabpos.c
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1470827110 source:d:\codeprac\c_practice\ch05\lx5_18\dcl.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1470828173 source:d:\codeprac\c_practice\ch05\lx5_18\gettoken.c
+	<ctype.h>
+	<string.h>
+
+1470827857 source:d:\codeprac\c_practice\ch05\lx5_18\main.c
+	<stdio.h>
+	<string.h>
+

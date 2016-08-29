@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471105869 source:d:\codeprac\c_practice\ch06\uu\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
